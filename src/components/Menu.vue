@@ -150,6 +150,7 @@ export default {
         { value: "es", label: "ES" },
         { value: "fr", label: "FR" },
         { value: "it", label: "IT" },
+        { value: "el", label: "EL" },
         { value: "pl", label: "PL" },
         { value: "pt", label: "PT" },
         { value: "cz", label: "CZ" },
